@@ -25,8 +25,14 @@ Guide:
    Gstarted/gstarted
    DataAccess/dataaccess
    jupyterhub/jupyterhub
-   dataProcessing/dataprocessing
+   dataProcessing/dataprocessing   
+   
+.. toctree::
+   :maxdepth: 3
+   :caption: Elasticty
+   
    Openstack/openstack
+
 
 
 .. image:: https://raw.githubusercontent.com/CloudFerro/doc/master/WEkEO/Wekeo-runbook-cloudferro-images/Cloud_configuration/1_dashboard.png
