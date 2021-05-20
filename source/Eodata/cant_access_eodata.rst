@@ -11,7 +11,7 @@ If you have problems with access to eodata try the following:
 
 install arping:
 
-in CentOS:<br>
+in CentOS:\
 ``sudo yum install arping``
 
 in Ubuntu:
