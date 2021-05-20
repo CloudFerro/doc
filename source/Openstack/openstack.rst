@@ -6,4 +6,4 @@ Openstack
   :maxdepth: 3
   :caption: Elasticity
 
-  1.rst
+  test.rst
