@@ -33,6 +33,7 @@ Guide:
    Openstack/openstack
    Eodata/eodata
    jupyterhub/jupyterhub
+   ceph/ceph
 
 
 
