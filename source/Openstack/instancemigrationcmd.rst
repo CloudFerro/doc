@@ -76,5 +76,7 @@ openstack image list
 +--------------------------------------+-----------------------------+--------+
 
 Now you can use it in new instance creation.
-There is no difference when migrating Windows instance that way
+
+.. warning::
+  There is no difference when migrating Windows instance that way
 
