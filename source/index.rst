@@ -24,7 +24,6 @@ Guide:
    About/about
    Gstarted/gstarted
    DataAccess/dataaccess
-   jupyterhub/jupyterhub
    dataProcessing/dataprocessing   
    
 .. toctree::
@@ -33,6 +32,8 @@ Guide:
    
    Openstack/openstack
    Eodata/eodata
+   jupyterhub/jupyterhub
+
 
 
 
