@@ -5,20 +5,19 @@ How to access/list EO DATA using boto3?
   :maxdepth: 3
   :caption: Elasticity
 
-Attention!
-To use boto3 your virtual machine has to be initialized in project with eo data.
-We strongly recommend using virtualenv for isolating python packages. Configuration tutorial is presented below:
-How to install Python virtualenv/virtualenvwrapper?
+.. warning::
+  To use boto3 your virtual machine has to be initialized in project with eo data.
+  We strongly recommend using virtualenv for isolating python packages. 
 
  
 
 If virtualenv is activated:
 
-  $ pip install boto3
+  ``$ pip install boto3``
 
 Or if we install package globally:
 
-  $ sudo pip install boto3
+  ``$ sudo pip install boto3``
 
  
 
