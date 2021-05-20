@@ -14,23 +14,23 @@ Downloading an instance
 
 List your instances.
 
-openstack server list
+``openstack server list``
 
 Shut off the instance.
 
-openstack server stop 6dd809ce-2c1a-44a1-b4b6-9a505a9b2685
+``openstack server stop 6dd809ce-2c1a-44a1-b4b6-9a505a9b2685``
 
 Check if it is turned off.
 
-openstack server show 638b6900-6aac-4f1c-8c8b-f0bb902ada39 | grep power_state
+``openstack server show 638b6900-6aac-4f1c-8c8b-f0bb902ada39 | grep power_state``
 
 Create an image for migration.
 
-openstack server image create --name "Migration image" c1f3602d-3b83-4c59-995c-168dd77a2242
+``openstack server image create --name "Migration image" c1f3602d-3b83-4c59-995c-168dd77a2242``
 
 Shelve option also creates a proper image and changes instance status to "Shelved Offloaded".
 
-openstack server shelve c1f3602d-3b83-4c59-995c-168dd77a2242
+``openstack server shelve c1f3602d-3b83-4c59-995c-168dd77a2242``
 
 Check if the new image was created properly. The size can not be 0 bytes. Should have a similar size as the instance itself.
 
