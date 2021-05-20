@@ -6,4 +6,4 @@ CEPH
   :maxdepth: 3
   :caption: Elasticity
 
-  ceph-text.rst
+  ceph-test.rst
