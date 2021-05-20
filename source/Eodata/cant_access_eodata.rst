@@ -31,8 +31,7 @@ based on the response, find the number of  the interface of 10.111.x.x (eth<numb
 after that invoke the following commands:
 
 in CentOS:
-
-sudo arping -U -c 2 -I eth<number> $(ip -4 a show dev eth<number> | sed -n 's/.*inet \([0-9\.]\+\).*/\1/p')
+``sudo arping -U -c 2 -I eth<number> $(ip -4 a show dev eth<number> | sed -n 's/.*inet \([0-9\.]\+\).*/\1/p')`` 
 
 
 in Ubuntu:
