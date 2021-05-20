@@ -8,8 +8,8 @@ OpenStack instance migration - command line
   
 
 Downloading an instance
-
-The instance should be checked if it is not created from image or volume. It will not create a proper image for migration in such cases.
+.. warning::
+  The instance should be checked if it is not created from image or volume. It will not create a proper image for migration in such cases.
 
  List your instances.
 
