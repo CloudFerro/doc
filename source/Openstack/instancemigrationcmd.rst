@@ -68,6 +68,9 @@ Load your image. There should be a table at the end of upload with detailed info
 The new image should also be presented in the images list
 
 ``openstack image list``
+.. list-table:: 
+   :widths: 25 25 50
+   :header-rows: 1
   +--------------------------------------+-----------------------------+--------+
   | ID                                   | Name                        | Status |
   +--------------------------------------+-----------------------------+--------+
