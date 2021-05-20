@@ -7,3 +7,4 @@ Eodata
   :caption: Elasticity
 
   eodata1.rst
+  cant_access_eodata.rst
