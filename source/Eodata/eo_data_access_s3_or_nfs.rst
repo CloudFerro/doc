@@ -1,13 +1,13 @@
 EO Data access - S3 or NFS?
-===================
+===========================
 
 .. toctree::
   :maxdepth: 3
   :caption: Elasticity
 
-
-Attention!
-Your virtual machine has to be launched in project with EO DATA!
+.. warning::
+  Attention!
+  Your virtual machine has to be launched in project with EO DATA!
 
 When creating new Linux VM in CREODIAS, you have the following /etc/fstab:
 
