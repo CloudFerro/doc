@@ -13,18 +13,17 @@ install arping:
 
 in CentOS:
 
-sudo yum install arping
+``sudo yum install arping``
 
 in Ubuntu:
-.. code-block:: bash  
 
-  sudo apt install arping
+``sudo apt install arping``
 
  
 
 check the name of the interface connected to eodata network:
 
-ifconfig
+``ifconfig``
 
 based on the response, find the number of  the interface of 10.111.x.x (eth<number> or ens<number>)
 
@@ -36,14 +35,14 @@ in CentOS:
 
 in Ubuntu:
 
-sudo arping -U -c 2 -I ens<number> $(ip -4 a show dev ens<number> | sed -n 's/.*inet \([0-9\.]\+\).*/\1/p')
+``sudo arping -U -c 2 -I ens<number> $(ip -4 a show dev ens<number> | sed -n 's/.*inet \([0-9\.]\+\).*/\1/p')``
 
 
 Next ping data.cloudferro.com again. If you receive answers, remount the resource:
 
-sudo umount -lf /eodata
+``sudo umount -lf /eodata
 
-sudo mount /eodata
+sudo mount /eodata``
 
  
 
