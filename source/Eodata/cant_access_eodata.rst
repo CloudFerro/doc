@@ -16,8 +16,9 @@ in CentOS:
 sudo yum install arping
 
 in Ubuntu:
+.. code-block:: bash  
 
-sudo apt install arping
+  sudo apt install arping
 
  
 
