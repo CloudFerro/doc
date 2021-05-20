@@ -32,7 +32,7 @@ Guide:
    :caption: Elasticty
    
    Openstack/openstack
-   EOdata/eodata
+   Eodata/eodata
 
 
 
