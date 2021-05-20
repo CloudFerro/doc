@@ -34,12 +34,13 @@ Shelve option also creates a proper image and changes instance status to "Shelve
 
 Check if the new image was created properly. The size can not be 0 bytes. Should have a similar size as the instance itself.
 
-openstack image list --private
-+--------------------------------------+-----------------------------------+---------+
-| ID                                   | Name                              | Status  |
-+--------------------------------------+-----------------------------------+---------+
-| 1fc30884-b35e-4eaf-8afc-e0a6b488e8b4 | Migration image                   | active  |
-+--------------------------------------+-----------------------------------+---------+
+``openstack image list --private``
+
+  +--------------------------------------+-----------------------------------+---------+
+  | ID                                   | Name                              | Status  |
+  +--------------------------------------+-----------------------------------+---------+
+  | 1fc30884-b35e-4eaf-8afc-e0a6b488e8b4 | Migration image                   | active  |
+  +--------------------------------------+-----------------------------------+---------+
  
 openstack image show 1fc30884-b35e-4eaf-8afc-e0a6b488e8b4 | grep min_disk
 | min_disk         | 8
