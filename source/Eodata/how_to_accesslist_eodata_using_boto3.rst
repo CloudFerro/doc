@@ -33,20 +33,22 @@ Client:
     typically maps 1:1 with the service API
     snake-cased method names (e.g. ListBuckets API => list_buckets method)
 
-import boto3
 
-access_key='anystring'
-secret_key='anystring'
+ .. code-block:: language
 
-host='http://data.cloudferro.com'
+   
+    import boto3
 
-s3=boto3.client('s3',aws_access_key_id=access_key,
-aws_secret_access_key=secret_key, endpoint_url=host,)
+    access_key='anystring'
+    secret_key='anystring'
+  
+    host='http://data.cloudferro.com'
 
-for i in s3.list_objects(Delimiter='/', Bucket="DIAS", Prefix='Sentinel-2/MSI/L1C/2020/01/08/',MaxKeys=30000)['CommonPrefixes']:
-        print(i)
+    s3=boto3.client('s3',aws_access_key_id=access_key,
+    aws_secret_access_key=secret_key, endpoint_url=host,)
 
- 
+    for i in s3.list_objects(Delimiter='/', Bucket="DIAS", Prefix='Sentinel-2/MSI/L1C/2020/01/08/',MaxKeys=30000)['CommonPrefixes']:
+           print(i)
 
 Resource:
 
