@@ -34,7 +34,7 @@ Client:
     snake-cased method names (e.g. ListBuckets API => list_buckets method)
 
 
- .. code-block:: language
+ .. code-block:: python
 
    
     import boto3
