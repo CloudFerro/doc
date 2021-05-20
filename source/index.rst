@@ -26,6 +26,7 @@ Guide:
    DataAccess/dataaccess
    jupyterhub/jupyterhub
    dataProcessing/dataprocessing
+   Openstack/openstack
 
 
 .. image:: https://raw.githubusercontent.com/CloudFerro/doc/master/WEkEO/Wekeo-runbook-cloudferro-images/Cloud_configuration/1_dashboard.png
