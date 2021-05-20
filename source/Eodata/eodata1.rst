@@ -2,7 +2,7 @@ test
 =====
 
 .. toctree::
-  :maxdepth: 8
+  :maxdepth: 3
   :caption: Elasticity
 
 eodata- w toku
