@@ -6,4 +6,4 @@ Services
   :maxdepth: 3
   :caption: Elasticity
 
-  test.rst
+  services-test.rst
