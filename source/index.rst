@@ -1,18 +1,7 @@
 
-Welcome to cfdocs's first documentation!
-=========================================
+CloudFerro Documentation
+=========================
 
-Header:
-^^^^^^^^
-
-CloudFerro documentation.
-
-Tekst 123
-
-TEST !@$%^&(((!@(#($!@)%)%!@_)))::
-
-   fmt.Prinln("Hello, world!")
-   >> Hello, world!
 
 Guide:
 ^^^^^^
