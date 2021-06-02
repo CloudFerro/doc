@@ -6,3 +6,4 @@ Terminal
   :caption: Creodias
 
 Terminal
+Test terminal 2
