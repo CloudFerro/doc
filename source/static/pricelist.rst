@@ -10,14 +10,13 @@ Below we present a price list of all the main categories of services available o
 
 **2. What are you paying for?**
 
-Our pricing is simple
+* Our pricing is simple
+        * You pay for VM flavor unit
+                * Free of charges Internet Access (promotion till the 30 June, 2021)
 
-* You pay for VM flavor unit
-
-* Free of charges Internet Access (promotion till the 30 June, 2021)
-        You pay for storage space
-            Free of charges number of In/Out operations
-            Free of charges In/Out traffic
+        * You pay for storage space
+                * Free of charges number of In/Out operations
+                * Free of charges In/Out traffic
 
 Our pricing is very preferential for long term Users of the system: prices are more attractive for 1 year than for short period of unlimited period of contract.
 
