@@ -47,6 +47,47 @@ Our pricing is very preferential for long term Users of the system: prices are m
 | ********* Arc.GIS.ds.large.gpu is equipped with GeForce RTX 2080Ti (4352 CUDA Cores, 11GB GDDR6). 
 
 
+.. figure:: https://github.com/CloudFerro/doc/blob/master/source/static/2.png
+   :scale: 100 %
+   :align: center
+   
+   *For each Bare Metal server we can add GPU Card - nVidia GTX 1080 Ti (GPU Card not included in default server configuration)
+   
+.. figure:: https://github.com/CloudFerro/doc/blob/master/source/static/3.png
+   :scale: 100 %
+   :align: center
+   
+.. figure:: https://github.com/CloudFerro/doc/blob/master/source/static/4.png
+   :scale: 100 %
+   :align: center
+   
+.. figure:: https://github.com/CloudFerro/doc/blob/master/source/static/5.png
+   :scale: 100 %
+   :align: center
+   
+|
+*processing units -  Each request is "worth" a proportional amount of processing units depending on what data and processing is requested. For better understanding how processing units are define, please visit `Data related services <https://creodias.eu/data-related-services>`_, section  EO Data HUB Service - OGC WMS extended service.
+
+|
+.. figure:: https://github.com/CloudFerro/doc/blob/master/source/static/6.png
+   :scale: 100 %
+   :align: center
+ 
+ 
+*Price is calculated on the basis of the consumed data transfer
+ 
+|
+.. figure:: https://github.com/CloudFerro/doc/blob/master/source/static/7.png
+   :scale: 100 %
+   :align: center
+   
+   
+*To calculate your order amount, use our Finder tool, specify the area you are interested in, select the dataset corresponding to your processor and confirm the product search.
+In the next step please contact our sales department.
+   
+   
+  
+
 
 
 
