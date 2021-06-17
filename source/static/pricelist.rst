@@ -36,7 +36,13 @@ Our pricing is very preferential for long term Users of the system: prices are m
 |
 |
 
-Figure 1 - Cloud computing and storage price list 
+.. figure:: https://raw.githubusercontent.com/CloudFerro/doc/master/source/static/figure1.png
+   :scale: 100 %
+   :align: center
+
+
+
+
 
 
 
