@@ -81,5 +81,5 @@ Our pricing is very preferential for long term Users of the system: prices are m
    :align: center
    
    
-| * To calculate your order amount, use our Finder tool, specify the area you are interested in, select the dataset corresponding to your processor and confirm the product search.
-In the next step please contact our sales department.
+| * To calculate your order amount, use our Finder tool, specify the area you are interested in, select the dataset corresponding to your processor and confirm the product search. 
+| In the next step please contact our sales department.
