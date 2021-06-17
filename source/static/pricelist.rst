@@ -39,6 +39,13 @@ Our pricing is very preferential for long term Users of the system: prices are m
 .. figure:: https://raw.githubusercontent.com/CloudFerro/doc/master/source/static/figure1.png
    :scale: 100 %
    :align: center
+|
+| * Flavours with AMD processors.
+| ** HMD Flavours with `ephemeral local storage <https://creodias.eu/storage>`_
+| *** gpu Machines are equipped with GeForce RTX 2080TI (4352 CUDA Cores, 11GB GDDR6).
+| **** All Software ready Cloud Servers are available only with Windows Server Standard in bundle with preconfigured Esri ArcGIS Pro Desktop.
+| ********* Arc.GIS.ds.large.gpu is equipped with GeForce RTX 2080Ti (4352 CUDA Cores, 11GB GDDR6). 
+
 
 
 
