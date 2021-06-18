@@ -47,3 +47,13 @@ Storage for BIG data
 .. figure:: https://raw.githubusercontent.com/CloudFerro/doc/master/source/static/storage2.png
    :scale: 100 %
    :align: center
+
+|
+| **Very High Resolution commercial data**
+|
+
+.. figure:: https://raw.githubusercontent.com/CloudFerro/doc/master/source/static/storage3.png
+   :scale: 100 %
+   :align: center
+
+Our EO Data repository is one of the largest Ceph-based network storage instances in Europe.
