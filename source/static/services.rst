@@ -35,3 +35,15 @@ Storage for BIG data
 | Thanks to platforms such as `CREODIAS <https://creodias.eu/>`_ and `WEkEO <https://www.wekeo.eu/>`_ provided by us, there is no need to make investments and build your own infrastructure or download data to external processing platforms.
 
 | **Below is a list of Earth observation data collections available from our public cloud.**
+
+.. figure:: https://raw.githubusercontent.com/CloudFerro/doc/master/source/static/storage1.png
+   :scale: 100 %
+   :align: center
+
+|
+|
+
+
+.. figure:: https://raw.githubusercontent.com/CloudFerro/doc/master/source/static/storage2.png
+   :scale: 100 %
+   :align: center
