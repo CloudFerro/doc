@@ -32,7 +32,7 @@ Storage for BIG data
 | The data in our repository is available locally, directly from our public cloud, and is additionally enriched with a wide set of interfaces (object-oriented S3, file NFS, geospatial OGC WMS/WMTS).
 | They are accessed almost immediately after being acquired from satellites (in the case of Copernicus and Landsat) - automatically downloaded minutes after publication and indexed. Currently, there are about **16 PB of observation data** available. The repository is growing by **20TB** on average every day.
 
-| Thanks to platforms such as `CREODIAS <https://creodias.eu/>`_ and `WEkEO <https://www.wekeo.eu/>`_ provided by us, there is no need to make investments and build your own infrastructure or download data to external processing platforms.
+|
 
 | **Below is a list of Earth observation data collections available from our public cloud.**
 
