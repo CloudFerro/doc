@@ -1,7 +1,7 @@
 *****
 Price List
 *****
-Below we present a price list of all the main categories of services available on CREODIAS platform. All ICT services offered on our platform have well defined prices – thus Third Parties can easily calculate the budgets necessary to build their solutions.
+Below we present a price list of all the main categories of services available on Elasticity for WekEO platform. All ICT services offered on our platform have well defined prices – thus Third Parties can easily calculate the budgets necessary to build their solutions.
 
 **1. Two main billing models:**
 
@@ -66,7 +66,7 @@ Our pricing is very preferential for long term Users of the system: prices are m
    :align: center
    
 |
-| * processing units -  Each request is "worth" a proportional amount of processing units depending on what data and processing is requested. For better understanding how processing units are define, please visit `Data related services <https://creodias.eu/data-related-services>`_, section  EO Data HUB Service - OGC WMS extended service.
+| * processing units -  Each request is "worth" a proportional amount of processing units depending on what data and processing is requested. 
 
 
 .. figure:: https://raw.githubusercontent.com/CloudFerro/doc/master/source/static/6.png
