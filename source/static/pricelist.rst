@@ -25,10 +25,10 @@ Our pricing is very preferential for long term Users of the system: prices are m
 
 * Special discount for contracts longer than 1 year or for large cloud environment orders
 * Special discount of 18.5% for scientific institutions
-* 150 EUR free credits for new EO data users for tests and evaluation of the CREODIAS platform
-* Free of charge EO data access from CREODIAS cloud environment.
+* 150 EUR free credits for new EO data users for tests and evaluation of the Elasticity for WekEO platform
+* Free of charge EO data access from Elasticity for WekEO cloud environment.
 
-**4. Price book for CREODIAS Infrastructure as a Service (IaaS)** services.
+**4. Price book for Elasticity for WekEO Infrastructure as a Service (IaaS)** services.
 
 | All prices are in EUR, excluding VAT.
 | Prices for Monthly, Half yearly and Yearly periods are in Fixed Term (long term) monthly cycle.
@@ -41,7 +41,7 @@ Our pricing is very preferential for long term Users of the system: prices are m
    :align: center
    
 | * Flavours with AMD processors.
-| ** HMD Flavours with `ephemeral local storage <https://creodias.eu/storage>`_
+| ** HMD Flavours with ephemeral local storage
 | ******* gpu Machines are equipped with GeForce RTX 2080TI (4352 CUDA Cores, 11GB GDDR6).
 | ******** All Software ready Cloud Servers are available only with Windows Server Standard in bundle with preconfigured Esri ArcGIS Pro Desktop.
 | ********* Arc.GIS.ds.large.gpu is equipped with GeForce RTX 2080Ti (4352 CUDA Cores, 11GB GDDR6). 
