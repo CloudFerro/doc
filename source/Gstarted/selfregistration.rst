@@ -2,7 +2,7 @@ Self-registration and accepting Agreements
 ==========================================
 
 
-Go to the https://tenant-manager.staging-dolores.apps.sydney.cloudferro.com/login site and press **CREATE ACCOUNT** button.
+Go to the https://wekeoelasticity.cloudferro.com/ site and press **CREATE ACCOUNT** button.
 
 |
 
