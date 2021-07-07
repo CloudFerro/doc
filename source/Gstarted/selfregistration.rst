@@ -12,7 +12,7 @@ Go to the https://tenant-manager.staging-dolores.apps.sydney.cloudferro.com/logi
    
 |
 
-Fill up all fields marked with ***** including terms and conditions and press **Create Account** button.
+Fill up all fields marked with ***** including accepitng mandatory terms and conditions and press **Create Account** button.
    
 .. figure:: https://raw.githubusercontent.com/CloudFerro/doc/master/source/Gstarted/reg_02.png
    :scale: 100 %
