@@ -3,6 +3,6 @@ Dolores
 
 .. toctree::
    :maxdepth: 3
-   :caption: Creodias
+   :caption: Dolores
 
 DOLORES
