@@ -4,6 +4,6 @@ About
 
 .. toctree::
   :maxdepth: 3
-  :caption: Creodias
+  :caption: Dolores
 
   team.rst
