@@ -4,6 +4,7 @@ Getting started
 
 .. toctree::
    :maxdepth: 3
-   :caption: Creodias
+   :caption: Dolores
 
   dolores.rst
+  selfregistration.rst
