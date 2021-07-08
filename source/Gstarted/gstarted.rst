@@ -8,4 +8,4 @@ Getting started
 
   dolores.rst
   selfregistration.rst
-  Password_reset.rst
+  passwordreset.rst
