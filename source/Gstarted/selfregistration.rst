@@ -1,6 +1,10 @@
 Self-registration and accepting Agreements
 ==========================================
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Dolores
+
 
 Go to the https://wekeoelasticity.cloudferro.com/ site and press **CREATE ACCOUNT** button.
 
