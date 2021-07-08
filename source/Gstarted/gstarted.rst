@@ -10,3 +10,4 @@ Getting started
   selfregistration.rst
   passwordreset.rst
   editingprofile.rst
+  adding_editing_organization.rst
