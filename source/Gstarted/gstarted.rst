@@ -9,3 +9,4 @@ Getting started
   dolores.rst
   selfregistration.rst
   passwordreset.rst
+  editingprofile.rst
