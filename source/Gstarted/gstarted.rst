@@ -12,3 +12,4 @@ Getting started
   editingprofile.rst
   adding_editing_organization.rst
   inviting_new_user.rst
+  users_roles.rst
