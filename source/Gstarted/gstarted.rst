@@ -11,3 +11,4 @@ Getting started
   passwordreset.rst
   editingprofile.rst
   adding_editing_organization.rst
+  inviting_new_user.rst
